@@ -1,0 +1,17 @@
+{
+  "name": "leilao",
+  "version": "1.0.0",
+  "description": "sistema de leilão em javascript com jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "leilao"
+  ],
+  "author": "lucas henrique",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
